@@ -6,7 +6,7 @@
         <ul class="font-bold flex gap-4">
           <li><NuxtLink to="/">Home</NuxtLink></li>
           <li><NuxtLink to="/about">About</NuxtLink></li>
-          <li><NuxtLink to="/about-us">About2</NuxtLink></li>
+          <!-- <li><NuxtLink to="/about-us">About2</NuxtLink></li> -->
           <li><NuxtLink to="products" class="btn">Products</NuxtLink></li>
         </ul>
       </nav>
